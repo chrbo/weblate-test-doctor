@@ -7,5 +7,6 @@
     "adminDashboard.connectionDuration": "six",
     "adminDashboard.connectionDuration.description": "seven",
     "adminDashboard.connectionDuration.info": "eight",
-    "adminDashboard.connectionDuration.timeInVideoConsultation": "nine"
+    "adminDashboard.connectionDuration.timeInVideoConsultation": "nine",
+    "adminDashboard.connectionDuration.ten": ""
 }
