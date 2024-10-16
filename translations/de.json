@@ -1,11 +1,11 @@
 {
-    "adminDashboard.caseVolume.fixedDates": "4",
-    "adminDashboard.connectionDuration": "6",
-    "adminDashboard.connectionDuration.timeInVideoConsultation": "9",
-    "adminDashboard.caseVolume": "1",
-    "adminDashboard.caseVolume.adHocAppointments": "2",
-    "adminDashboard.connectionDuration.info": "8",
-    "adminDashboard.caseVolume.description": "3",
-    "adminDashboard.caseVolume.info": "5",
-    "adminDashboard.connectionDuration.description": "7"
+    "adminDashboard.caseVolume.fixedDates": "vier",
+    "adminDashboard.connectionDuration": "sechs",
+    "adminDashboard.connectionDuration.timeInVideoConsultation": "neun",
+    "adminDashboard.caseVolume": "eins",
+    "adminDashboard.caseVolume.adHocAppointments": "zwei",
+    "adminDashboard.connectionDuration.info": "acht",
+    "adminDashboard.caseVolume.description": "drei",
+    "adminDashboard.caseVolume.info": "fünf",
+    "adminDashboard.connectionDuration.description": "sieben"
 }
