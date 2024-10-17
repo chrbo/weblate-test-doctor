@@ -8,5 +8,7 @@
     "adminDashboard.caseVolume.description": "drei",
     "adminDashboard.caseVolume.info": "fünf",
     "adminDashboard.connectionDuration.description": "sieben",
-    "adminDashboard.connectionDuration.ten": "zehn"
+    "adminDashboard.connectionDuration.ten": "zehn",
+    "adminDashboard.connectionDuration.eleven": "elf",
+    "adminDashboard.connectionDuration.twelve": "zwölf"
 }
