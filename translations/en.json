@@ -1,5 +1,5 @@
 {
-    "adminDashboard.caseVolume": "one",
+    "adminDashboard.caseVolume": "1",
     "adminDashboard.caseVolume.adHocAppointments": "two",
     "adminDashboard.caseVolume.description": "three",
     "adminDashboard.caseVolume.fixedDates": "four",
@@ -10,5 +10,6 @@
     "adminDashboard.connectionDuration.timeInVideoConsultation": "nine",
     "adminDashboard.connectionDuration.ten": "ten",
     "adminDashboard.connectionDuration.eleven": "eleven",
-    "adminDashboard.connectionDuration.twelve": "twelve"
+    "adminDashboard.connectionDuration.twelve": "twelve",
+    "adminDashboard.connectionDuration.thirteen": "thirteen"
 }
